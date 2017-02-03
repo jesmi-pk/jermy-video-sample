@@ -12,6 +12,7 @@ namespace LambdaExpression
         {
             Console.WriteLine("Hello");
             Console.WriteLine("New Branch");
+            Console.WriteLine("Second Change in New Branch");
             Console.ReadLine();
         }
     }
