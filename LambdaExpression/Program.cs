@@ -10,6 +10,8 @@ namespace LambdaExpression
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello");
+            Console.ReadLine();
         }
     }
 }
