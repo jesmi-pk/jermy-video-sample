@@ -1,0 +1,1 @@
+D:\Projects\LambdaExpression\LambdaExpression\bin\Debug\LambdaExpression.exe.config
